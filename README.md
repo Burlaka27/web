@@ -7,4 +7,4 @@
 [Тестовый прогон для корзины, оплаты и истории заказов]
 (https://github.com/Burlaka27/web/commit/6db4f548276554b270d01f2aa9e207b123061df5)
 [Отчеты о дефектах для корзины, олпаты и истории заказов]
-(https://github.com/Burlaka27/web/commit/64259072e4bb719d10978a0b7e18a91104a260d1)
+(https://github.com/Burlaka27/web/commit/a0598ab7f9100c7fab52617ff7b4042b1670cdab)
