@@ -6,3 +6,5 @@
 (https://docs.google.com/spreadsheets/d/1q3YhO6mqGGWXKit7KPrduapiQYgynWiiBAM9NGciBqE/edit?gid=798521458#gid=798521458)
 [Тестовый прогон для корзины, оплаты и истории заказов]
 (https://github.com/Burlaka27/web/commit/6db4f548276554b270d01f2aa9e207b123061df5)
+[Отчеты о дефектах для корзины, олпаты и истории заказов]
+(https://github.com/Burlaka27/web/commit/64259072e4bb719d10978a0b7e18a91104a260d1)
